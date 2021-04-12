@@ -1,0 +1,6 @@
+Mkdir halaman-github
+CD halaman-github
+Echo "hello sayang apa kabar?"
+Git init
+Git add index.html
+Git comit -m "bagusdeh kalo baik baik aja xixi"
